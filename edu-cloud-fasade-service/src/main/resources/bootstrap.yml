@@ -1,0 +1,19 @@
+edu:
+  cloud:
+    center:
+      regist-name: edu-cloud-center
+      path: /edu/center
+
+
+spring:
+  application:
+    name: edu-cloud-fasade
+  cloud:
+    nacos:  # \u9ED8\u8BA4localhost:8848/nacos \u672C\u5730\u9700\u542F\u52A8\u4E00\u4E2Anacos
+      discovery:
+        enabled: true
+        service: ${spring.application.name}
+      config:
+        enabled: true
+        encode: UTF-8
+        file-extension: yaml

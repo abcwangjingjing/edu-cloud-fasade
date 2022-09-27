@@ -1,0 +1,90 @@
+POST http://localhost:8080/echoPost
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-27T052049.200.txt
+
+###
+
+GET http://localhost:8080/echo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-27T051916.200.txt
+
+###
+
+GET http://localhost:8080/echo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-27T051903.404.json
+
+###
+
+GET http://localhost:8080/hello
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-27T051527.200.txt
+
+###
+
+GET http://localhost:8080/edu/center/hello
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-27T051524.404.json
+
+###
+
+GET http://localhost:8080/hello
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-27T051517.200.txt
+
+###
+
+GET http://localhost:8080/hello
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-27T051515.200.txt
+
+###
+
+GET http://localhost:8080/hello
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-27T051137.200.txt
+
+###
+
+GET http://localhost:8080/hello
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/hello
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/edu/center/hello
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-09-27T014738.404.json
+
+###
+
+GET http://localhost:8080/hello
+Accept: */*
+Cache-Control: no-cache
+
+###
+

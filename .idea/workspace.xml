@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="377a2107-096b-450f-b343-e157114c582c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response58.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Resouce\repository" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EQctjZP1Z6607mqvSopAMf3Lg5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46781608" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.edu.cloud.fasade" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.edu.cloud.fasade.controller" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/echo" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/hello" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/edu/center/hello" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EduCloudFasadeServiceApplication (1)">
+    <configuration name="EduCloudFasadeServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-cloud-fasade-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.cloud.fasade.EduCloudFasadeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduCloudFasadeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-cloud-fasade-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.cloud.fasade.service.EduCloudFasadeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="377a2107-096b-450f-b343-e157114c582c" name="Default Changelist" comment="" />
+      <created>1662531464257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662531464257</updated>
+      <workItem from="1662531466933" duration="496000" />
+      <workItem from="1662531995388" duration="42000" />
+      <workItem from="1663588198484" duration="10000" />
+      <workItem from="1664245999888" duration="2719000" />
+      <workItem from="1664248749082" duration="20000" />
+      <workItem from="1664248785121" duration="2942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="0" key="#Project_Structure" timestamp="1664248694522">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="413" y="0" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1664248694522" />
+    <state x="352" y="321" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1664247288607">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="352" y="321" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.816@0.0.1536.816" timestamp="1664247288607" />
+    <state x="544" y="275" width="639" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1664247370832">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="544" y="275" width="639" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.816@0.0.1536.816" timestamp="1664247370832" />
+    <state x="548" y="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1664247265291">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="548" y="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.816@0.0.1536.816" timestamp="1664247265291" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1664246179313">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1664246179313" />
+    <state width="1493" height="385" key="GridCell.Tab.0.bottom" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.0.center" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.0.left" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.0.right" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.1.bottom" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.1.center" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.1.left" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.1.right" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.2.bottom" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.2.center" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.2.left" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state width="1493" height="385" key="GridCell.Tab.2.right" timestamp="1664270354994">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="385" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1664270354994" />
+    <state x="270" y="53" key="SettingsEditor" timestamp="1664246198585">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1664246198585" />
+    <state x="228" y="74" key="new project wizard" timestamp="1664248556782">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="228" y="74" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1664248556782" />
+  </component>
+</project>
