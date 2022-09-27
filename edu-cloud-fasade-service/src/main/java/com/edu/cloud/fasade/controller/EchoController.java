@@ -16,7 +16,7 @@ public class EchoController {
     public String setHelloApi() {
         return iEchoApi.echo("“快乐暑促");
     }
-
+//http://localhost:8080/echoPost
     @PostMapping("/echoPost")
     public String setHelloPost() {
         return iEchoApi.echoPost("“快乐暑促","结束楼");
